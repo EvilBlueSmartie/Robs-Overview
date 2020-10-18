@@ -14,10 +14,16 @@ This is not a general purpose overview. I recommend you install this just for Pv
 
 ## Installation Instructions
 
-* Download the YAML file for the most recent version and copy it to your Documents\EVE\Overviews folder.
+* Download the YAML file for the most recent version (right click and save).
+* Copy the file to your Documents\EVE\Overviews folder. If the folder does not exists then create.
 * Open up your overview settings in game.
 * Go to the **Misc** tab and clecik **Reset All Overview Settings**.
 * Click **Import Overview Settings**.
 * Select the latest version and then **Check All**.
 
 The overview and all presets should now be loaded.
+
+## In-Game Channels
+
+To keep up to date with the latest version please join the **Robs Overview** mailing list and chat channel.
+
