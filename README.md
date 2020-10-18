@@ -6,7 +6,7 @@ A set of EVE Online overviews for the descerning null-sec pilot.
 
 The General Purpose 'GP' overview is designed as a daily driver for null-sec players. With simplicity and ease of use at it's core, this overview features tabs and presets for the most common activites in null-sec. Ideal for new and old players alike for their every-day needs.
 
-## Coming Soon: Rob's COMBAT Overview
+## [Rob's COMBAT Overview](https://github.com/EvilBlueSmartie/Robs-Overview/tree/master/Combat)
 
 The COMBAT overview is designed for frontline, large-scale engagements. Set up for pure PvP, this overview contains every preset you need for almost any combat situation, including NBSI and NRDS. Ideal for line pilots and FCs alike flying in either sub-cap or capital fleets.
 
